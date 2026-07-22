@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there 👋 I'm Dat Tran Minh
 
-<!--
-**MinnToet/MinnToet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence student passionate about building intelligent systems and solving challenging problems through software and research.
 
-Here are some ideas to get you started:
+Currently, I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Cybersecurity
+- Competitive Programming
+- Robotics (CAD Design & Programming)
+
+I'm also a member of the **PKA.CyberSecurity CTF Team**.
+
+---
+
+## Current Focus
+
+- Learning AI and Deep Learning
+- Developing AI projects for Computer Vision
+- Participating in CTF competitions
+- Practicing competitive programming
+- Building robotics projects
+- Preparing for AI research and engineering roles
+
+---
+
+## Tech Stack
+
+**Languages**
+
+- Python
+- C++
+- Java
+
+**AI & Data Science**
+
+- TensorFlow
+- Keras
+- PyTorch
+- OpenCV
+- NumPy
+- Pandas
+- Scikit-learn
+
+**Development**
+
+- Git
+- GitHub
+- Streamlit
+- VS Code
+- Google Colab
+
+**Cybersecurity**
+
+- Linux
+- Cryptography
+- Web Security
+- Reverse Engineering
+
+---
+
+## Featured Projects
+
+- Handwritten Digit Recognition using CNN
+- (Future) Route Optimization System
+- (Future) Face Recognition Attendance System
+- (Future) AI Security Research
+
+---
+
+## Contact
+
+GitHub: https://github.com/MinnToet
+
+Email: dattran123.work@gmail.com
+
+LinkedIn: [your_linkedin](https://www.linkedin.com/in/dat-tran-minh-009604376/)
