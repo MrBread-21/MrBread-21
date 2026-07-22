@@ -76,4 +76,4 @@ GitHub: https://github.com/MinnToet
 
 Email: dattran123.work@gmail.com
 
-LinkedIn: [your_linkedin](https://www.linkedin.com/in/dat-tran-minh-009604376/)
+LinkedIn: https://www.linkedin.com/in/dat-tran-minh-009604376/
