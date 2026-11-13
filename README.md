@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dat Tran Minh
+# Hi there I'm Dat Tran Minh
 
 I'm an Artificial Intelligence student passionate about building intelligent systems and solving challenging problems through software and research.
 
@@ -72,7 +72,7 @@ I'm also a member of the **PKA.CyberSecurity CTF Team**.
 
 ## Contact
 
-GitHub: https://github.com/MinnToet
+GitHub: https://github.com/MrBread-21
 
 Email: dattran123.work@gmail.com
 
