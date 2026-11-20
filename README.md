@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dat%20Tran%20Minh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Student%20%7C%20CTF%20Player%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=58" width="100%" alt="Dat Tran Minh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dat%20Tran%20Minh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Security%20for%20AI%20%7C%20CTF%20Player%20%7C%20Competitive%20Programmer&descSize=18&descAlignY=58" width="100%" alt="Dat Tran Minh" />
 
 <a href="https://github.com/MrBread-21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+with+AI+and+ML;Computer+Vision+and+LLM+Agents;CTF+player+at+PKA.CyberSecurity;Always+learning%2C+always+shipping" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C5364&center=true&vCenter=true&width=620&lines=Working+toward+Security+for+AI;Building+intelligent+systems+with+AI+and+ML;CTF+player+at+PKA.CyberSecurity;Always+learning%2C+always+shipping" alt="Typing intro" />
 </a>
 
 <p>
@@ -20,11 +20,27 @@
 
 I'm **Dat Tran Minh**, an Artificial Intelligence student at **Phenikaa University** who enjoys turning ideas into working systems, from training models to shipping them as real applications.
 
-- Focused on **Machine Learning, Computer Vision and LLM agents**
+My direction is **Security for AI**: making machine learning models and LLM-based systems robust, trustworthy and hard to attack, by combining my background in AI with hands-on cybersecurity experience.
+
+- Working on **Machine Learning, Computer Vision and LLM agents**
 - Member of the **PKA.CyberSecurity** CTF team, mainly playing **Cryptography**
 - Practicing **competitive programming** in C++
-- Building **robotics** projects (CAD design and programming)
-- Preparing for **AI research and engineering** roles
+- Building **robotics** projects (CAD design and programming) for FIRST Tech Challenge
+
+---
+
+## Achievements
+
+| Year | Competition | Result |
+|---|---|---|
+| 2026 | Northern Vietnam Student AI Olympiad 2026 | **Third Prize** |
+| 2026 | Phenikaa AI Hackathon 2026 | **Third Prize** |
+| 2026 | ICPC Vietnam, Northern Region 2026 | Consolation Prize |
+| 2026 | Cybersecurity Student Contest Vietnam 2026, Group B (Jeopardy) | Consolation Prize |
+| 2025 | ICPC Phenikaa 2025 | **Champion**, solved 13/14 problems |
+| 2025 | Cybersecurity Student Contest Vietnam 2025, Group A (Attack-Defense) | Contestant |
+| 2025 - 2026 | FIRST Tech Challenge Vietnam 2025 - 2026 | **2nd Place, Sustain Award** |
+| 2024 | National Student Physics Olympiad 2024 | Consolation Prize |
 
 ---
 
@@ -53,22 +69,6 @@ I'm **Dat Tran Minh**, an Artificial Intelligence student at **Phenikaa Universi
 
 ---
 
-## Achievements
-
-<!--
-  Fill in your results here. Add one row per achievement, for example:
-  | 2026 | Zalo AI Challenge | LifeMate | Top 10 | NeedMoreBread |
--->
-
-| Year | Competition | Track / Category | Result | Team |
-|---|---|---|---|---|
-| 2026 | Zalo AI Challenge | LifeMate | *Updating* | NeedMoreBread |
-| 2026 | Phenikaa AI Hackathon | | *Updating* | PKA_FierceFox |
-| 2026 | Vietnam Student AI Olympiad (OLP AI) | | *Updating* | PKA_FierceFox |
-| 2026 | CTF competitions | Cryptography | *Updating* | PKA.CyberSecurity |
-
----
-
 ## Tech Stack
 
 | Area | Tools |
@@ -84,7 +84,7 @@ I'm **Dat Tran Minh**, an Artificial Intelligence student at **Phenikaa Universi
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrBread-21&hide_border=true&include_all_commits=true&count_private=true&title_color=2C5364&text_color=444444" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrBread-21&hide_border=true&title_color=2C5364&text_color=444444" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBread-21&layout=compact&hide_border=true&langs_count=6&title_color=2C5364&text_color=444444" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=MrBread-21&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" alt="GitHub streak" />
