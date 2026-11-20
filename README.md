@@ -25,22 +25,7 @@ My direction is **Security for AI**: making machine learning models and LLM-base
 - Working on **Machine Learning, Computer Vision and LLM agents**
 - Member of the **PKA.CyberSecurity** CTF team, mainly playing **Cryptography**
 - Practicing **competitive programming** in C++
-- Building **robotics** projects (CAD design and programming) for FIRST Tech Challenge
-
----
-
-## Achievements
-
-| Year | Competition | Result |
-|---|---|---|
-| 2026 | Northern Vietnam Student AI Olympiad 2026 | **Third Prize** |
-| 2026 | Phenikaa AI Hackathon 2026 | **Third Prize** |
-| 2026 | ICPC Vietnam, Northern Region 2026 | Consolation Prize |
-| 2026 | Cybersecurity Student Contest Vietnam 2026, Group B (Jeopardy) | Consolation Prize |
-| 2025 | ICPC Phenikaa 2025 | **Champion**, solved 13/14 problems |
-| 2025 | Cybersecurity Student Contest Vietnam 2025, Group A (Attack-Defense) | Contestant |
-| 2025 - 2026 | FIRST Tech Challenge Vietnam 2025 - 2026 | **2nd Place, Sustain Award** |
-| 2024 | National Student Physics Olympiad 2024 | Consolation Prize |
+- Building **robotics** projects (CAD design and programming)
 
 ---
 
@@ -66,6 +51,21 @@ My direction is **Security for AI**: making machine learning models and LLM-base
 | [**Competitive-Programming**](https://github.com/MrBread-21/Competitive-Programming) | My solutions to competitive programming problems in C++. |
 | [**Training-Olympic-AI-SinhVien-2026**](https://github.com/MrBread-21/Training-Olympic-AI-SinhVien-2026) | Practice repository of team PKA_FierceFox for the Vietnam Student AI Olympiad 2026. |
 | [**AI-Book**](https://github.com/MrBread-21/AI-Book) | Curated list of books on ML, Deep Learning, Computer Vision, RL and Statistical Learning. |
+
+---
+
+## Achievements
+
+| Year | Competition | Result |
+|---|---|---|
+| 2026 | Northern Vietnam Student AI Olympiad 2026 | **Third Prize** |
+| 2026 | Phenikaa AI Hackathon 2026 | **Third Prize** |
+| 2026 | ICPC Vietnam, Northern Region 2026 | Consolation Prize |
+| 2026 | Cybersecurity Student Contest Vietnam 2026, Group B (Jeopardy) | Consolation Prize |
+| 2025 | ICPC Phenikaa 2025 | **Champion**, solved 13/14 problems |
+| 2025 | Cybersecurity Student Contest Vietnam 2025, Group A (Attack-Defense) | Contestant |
+| 2025 - 2026 | FIRST Tech Challenge Vietnam 2025 - 2026 | **2nd Place, Sustain Award** |
+| 2024 | National Student Physics Olympiad 2024 | Consolation Prize |
 
 ---
 
