@@ -81,17 +81,6 @@ My direction is **Security for AI**: making machine learning models and LLM-base
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrBread-21&hide_border=true&title_color=2C5364&text_color=444444" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBread-21&layout=compact&hide_border=true&langs_count=6&title_color=2C5364&text_color=444444" alt="Top languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=MrBread-21&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" alt="GitHub streak" />
-</div>
-
----
-
 <div align="center">
 
 Open to internships, research collaborations and CTF teammates. Feel free to reach out.
